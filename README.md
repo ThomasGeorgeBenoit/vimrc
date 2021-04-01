@@ -1,2 +1,3 @@
-# vimrc
-my vimrc. Uses neovim.
+### Just my vimrc right now.
+
+(neovim)
